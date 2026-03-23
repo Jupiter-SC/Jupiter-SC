@@ -1,5 +1,5 @@
 # 💙Lover💙 of 🦦Otters🦦 🧪Science🧪 & 😎Shades😎
-### [Website](https://jupiter-sc.github.io/site/)
+### [Website](https://jupiter-sc.github.io/)
 
 🔷 Game Programmer specializing in Graphics, Tech Art, and Tools
 
