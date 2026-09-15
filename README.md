@@ -1,13 +1,14 @@
-# 💙Lover💙 of 🦦Otters🦦 🧪Science🧪 & 😎Shades😎
+# 💙Lover💙 of 🦦Otters🦦 ⚔Swords⚔ & 😎Shades😎
 ### [Website](https://jupiter-sc.github.io/)
 
-🔷 Game Programmer specializing in Graphics, Tech Art, and Tools
+🔷 Game Programmer specializing in Graphics, Tech Art, Tools, and Engines
 
 🔷 Oshawott is my favourite pokemon
 
+🔷 Play Socratic Smackdown on Steam!
+
 Currently:
 
-🔷 Working on Socratic Smackdown\
-🔷 Building a Raytraced Software Rasterizer\
+🔷 Doing many Game Jams!\
 🔷 Learning Vulkan\
-🔷 Learning Houdini
+🔷 Some Houdini stuff
