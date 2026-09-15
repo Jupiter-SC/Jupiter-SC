@@ -12,3 +12,5 @@ Currently:
 🔷 Doing many Game Jams!\
 🔷 Learning Vulkan\
 🔷 Some Houdini stuff
+
+![Epic Oshawott Gif](oshawott-pokemon.gif)
